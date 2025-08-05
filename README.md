@@ -3,6 +3,7 @@
 
 ¡Hola a todos!
 
+
 En esta tarea, vamos a crear nuestra propia hoja de vida (CV) utilizando HTML y CSS. Este ejercicio está dividido en dos partes para que puedan enfocarse primero en la estructura y luego en el diseño.
 
 ## Parte 1: HTML
@@ -85,3 +86,7 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+- **Nombre completo:** Maikol Smit Gutierrez Bello 
+- **ID de la Universidad:** 0000339397
+- **Usuario de Github:** @Maikol23qq
