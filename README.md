@@ -90,3 +90,5 @@ section {
 - **Nombre completo:** Maikol Smit Gutierrez Bello 
 - **ID de la Universidad:** 0000339397
 - **Usuario de Github:** @Maikol23qq
+- **Link de mi cv:** https://dsaw-2025-ii.github.io/my-cv-part-a-Maikol23qq/
+
